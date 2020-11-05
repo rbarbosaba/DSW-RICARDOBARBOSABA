@@ -3,4 +3,4 @@ GITHUB
 05/09/2020
 cc:1101759034
 tel:3204479247
-https://github.com/rbarbosaba/DSW-RICARDOBARBOSABA/blob/master/123.png
+https://rbarbosaba.github.io/DSW-RICARDOBARBOSABA/
